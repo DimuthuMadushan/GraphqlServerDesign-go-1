@@ -1,0 +1,12 @@
+
+    [
+     {"id": "1","firstName": "Kasun","age": "21","email":"Ksun@gmail.com"},
+         {"id": "2","firstName": "Ruwan","age": "22","email":"ruwan@gmail.com"},
+         {"id": "3","firstName": "Raveen","age": "24","email":"raveen@gmail.com"},
+         {"id": "4","firstName": "Roshan","age": "25","email":"roshan@gmail.com"},
+         {"id": "5","firstName": "singam","age": "23","email":"singam@gmail.com"},
+         {"id": "6","firstName": "sandun","age": "23","email":"sandun@gmail.com"},
+         {"id": "7","firstName": "nipuna","age": "26","email":"nipuna@gmail.com"},
+         {"id": "8","firstName": "nuwan","age": "23","email":"nuwan@gmail.com"},
+         {"id": "9","firstName": "shan","age": "77","email":"shan@gmail.com"}
+]
